@@ -1,0 +1,19 @@
+h1{
+  text-align: center; 
+  font-family: courier;
+  font-size: 250%;
+}
+
+p {
+  text-align: center;
+  font-family: courier;
+  font-size: 120%;
+  background-color: lightblue;
+  border-radius: 5rem;
+  margin: 10px;
+  vertical-align: auto;
+}
+
+body {
+  background-color: lightgray;
+}
